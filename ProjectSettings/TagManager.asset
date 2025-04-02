@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Walkable
+  - HandLocomotion
+  - LocomotionStateDetector
+  - BodyLocomotion
   - 
   - 
   - 
